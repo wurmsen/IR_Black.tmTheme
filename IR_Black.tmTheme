@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#262626</string>
 				<key>caret</key>
 				<string>#FE9A01</string>
 				<key>foreground</key>
@@ -814,7 +814,95 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#93978E</string>
+				<string>#8B0000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>indent 1</string>
+			<key>scope</key>
+			<string>1.indent</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#262626</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>indent 2</string>
+			<key>scope</key>
+			<string>2.indent</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#222222</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>indent 3</string>
+			<key>scope</key>
+			<string>3.indent</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#262626</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>indent 4</string>
+			<key>scope</key>
+			<string>4.indent</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#222222</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>indent 5</string>
+			<key>scope</key>
+			<string>5.indent</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#262626</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>indent 6</string>
+			<key>scope</key>
+			<string>6.indent</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#222222</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>indent 7</string>
+			<key>scope</key>
+			<string>7.indent</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#262626</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>indent 8</string>
+			<key>scope</key>
+			<string>8.indent</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#222222</string>
 			</dict>
 		</dict>
 	</array>
